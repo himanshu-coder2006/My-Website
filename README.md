@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Responsive Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my skills in front-end web development, featuring a clean and responsive design built using HTML, CSS, and JavaScript.
@@ -80,3 +81,7 @@ Contributions are welcome! If you'd like to improve the design, add new features
 5. Open a **Pull Request** and explain what your feature or fix does.
 
 Please ensure that your contributions follow the coding standards and maintain the website's responsiveness across all screen sizes.
+=======
+# My-Website
+A responsive and modern personal portfolio website built using HTML, CSS, and JavaScript. It showcases my skills, projects, and contact information with a clean UI, smooth navigation, and mobile-friendly design.
+>>>>>>> c121e07fe66ee4aafad21d0137f8af3d9f72a230
